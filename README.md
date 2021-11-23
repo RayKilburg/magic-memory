@@ -9,7 +9,7 @@
 - I built this app with help from the [Net Ninja](https://www.youtube.com/watch?v=ZCKohZwGZMw&list=PL4cUxeGkcC9iQ7g2eoNXHCJBBBz40S_Lm 'Net Ninja Youtube Channel') watch his videos and tutorials to build apps like this.
 
 <br>
-<img src="./public/favicon.ico" alt="drawing" width="200" height="200"/>
+<img src="./public/favicon.ico" alt="drawing" width="160" height="200"/>
 
 ## Usage
 
